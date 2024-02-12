@@ -1,3 +1,3 @@
 ---
-title: Blog 
+title: How I Think About Code 
 ---
